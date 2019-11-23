@@ -23,6 +23,7 @@ Q2: What hobbies do you have outside coding?
 
 Q3: What qualities do you possess that make you a good developer?
 
+
     Jeremy: Hmm... I think I'm a pretty logical person, so I'm pretty good at reasoning about what's happening.  I'm also naturally quite curious, which helps as you're trying to learn new technologies, languages, and frameworks. 
 
 
